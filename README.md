@@ -40,12 +40,12 @@ The DP matrix evaluates the `max()` of these two choices, ensuring an absolute o
 ---
 
 ## 📸 Dashboard Preview
-![Optimization Dashboard](screenshot.png)
-*(Please ensure your frontend screenshot is named `screenshot.png` and placed in this directory)*
+![Optimization Dashboard](DashBoard.png)
+
 
 ## 🖥️ Backend Server Running
 ![Backend Server](backend_screenshot.png)
-*(Please ensure your IDE screenshot is named `backend_screenshot.png` and placed in this directory)*
+
 
 ---
 
